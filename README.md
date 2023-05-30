@@ -1,6 +1,8 @@
 # Mullvad-Ejector
  A simple script that removes all devices from the Mullvad VPN account.
 
+https://youtu.be/aEb8dSneLS0
+
 For perfectly usage, use the compiled version in Releases or compile the script with «compile.bat»:
 > 1. Make sure you have PyInstaller installed, or install it: ```pip install -U pyinstaller```
 > 2. In the Mullvad VPN app, go to settings and click the «Split Tunneling» tab
