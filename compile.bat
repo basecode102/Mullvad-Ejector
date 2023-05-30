@@ -1,0 +1,1 @@
+pyinstaller --copy-metadata magic_filter --onefile main.py
