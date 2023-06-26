@@ -9,5 +9,3 @@ For perfectly usage, use the compiled version in [Releases](https://github.com/b
 > 3. Add the compiled script to the split tunneling
 > 
 > ![image](https://github.com/basecode102/Mullvad-Ejector/assets/134014264/e9f720ce-13c6-4e90-a937-c408fdb3af3f)
-
-Credits: t.me/laurphine
